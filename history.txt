@@ -1,0 +1,73 @@
+    1  git clone https://github.com/udacity/Android_Me/
+    2  git clone https://github.com/arvind464/linearlayout.git
+    3  cd linearlayout/
+    4  cd ..
+    5  cd ..
+    6  cd android_projects/
+    7  cd GridView/
+    8  git init
+    9  git add .
+   10  git status
+   11  git commit -m " first commit"
+   12  git push
+   13  git remote add origin git@github.com:arvind464/gridview.git
+   14  git push -u origin master
+   15  git remote add origin https://github.com/arvind464/gridview.git
+   16  git init
+   17  git add .
+   18  git status
+   19  git commit
+   20  git commit -m "this is arvind"
+   21  git remote add origin https://github.com/arvind464/listview.git
+   22  git push -u origin master
+   23  ssh-keygen -t rsa
+   24  cat /c/Users/Arvind Tiwari/.ssh/id_rsa.pub
+   25  cat "/c/Users/Arvind Tiwari/.ssh/id_rsa.pub"
+   26  git push -u origin master
+   27  git push -u origin master
+   28  git push -u origin master
+   29  cd..
+   30  cd ..
+   31  ls 
+   32  cd LoginActivity
+   33  git init
+   34  git add .
+   35  git commit -m "second project"
+   36  git push
+   37  git remote add origin https://github.com/arvind464/LoginActivity.git
+   38  git push origin 
+   39  git push -u origin master
+   40  git push -u origin master
+   41  git push -u origin master
+   42  cd
+   43  cd ls
+   44  ls
+   45  cd /c
+   46  ls
+   47  /Git_project
+   48  cd 
+   49  /c
+   50  \c
+   51  cd \c
+   52  cd /c
+   53  ls
+   54  cd Git_project
+   55  git clone git@github.com:arvind464/LoginActivity.git
+   56  ls
+   57  cd LoginActivity
+   58  git status
+   59  git commit -m "thrid commit"
+   60  git add  app/src/main/java/com/example/arvindtiwari/loginactivity/MainActivity.java
+   61  git commit -m "thrid commit"
+   62  git push
+   63  git remote -v
+   64  cd ..
+   65  ls
+   66  cd linearlayout/
+   67  git remote -v
+   68  git remote set-url origin  git@github.com:arvind464/linearlayout.git
+   69  git remote -v
+   70  git pull
+   71  git pull
+   72  history
+   73  history >> history.txt
