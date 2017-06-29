@@ -1,7 +1,7 @@
     1  git clone https://github.com/udacity/Android_Me/
     2  git clone https://github.com/arvind464/linearlayout.git
     3  cd linearlayout/
-    4  cd ..
+    
     5  cd ..
     6  cd android_projects/
     7  cd GridView/
@@ -21,8 +21,7 @@
    21  git remote add origin https://github.com/arvind464/listview.git
    22  git push -u origin master
    23  ssh-keygen -t rsa
-   24  cat /c/Users/Arvind Tiwari/.ssh/id_rsa.pub
-   25  cat "/c/Users/Arvind Tiwari/.ssh/id_rsa.pub"
+   
    26  git push -u origin master
    27  git push -u origin master
    28  git push -u origin master
